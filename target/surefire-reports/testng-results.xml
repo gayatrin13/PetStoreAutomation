@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-06T16:47:36 PDT" name="Suite" finished-at="2023-06-06T16:47:40 PDT" duration-ms="3869">
+    <groups>
+    </groups>
+    <test started-at="2023-06-06T16:47:36 PDT" name="Test" finished-at="2023-06-06T16:47:40 PDT" duration-ms="3869">
+      <class name="api.tests.UserTest">
+        <test-method is-config="true" signature="setUpData()[pri:0, instance:api.tests.UserTest@1edb61b1]" started-at="2023-06-06T16:47:36 PDT" name="setUpData" finished-at="2023-06-06T16:47:36 PDT" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpData -->
+        <test-method signature="createUserTest()[pri:1, instance:api.tests.UserTest@1edb61b1]" started-at="2023-06-06T16:47:36 PDT" name="createUserTest" finished-at="2023-06-06T16:47:38 PDT" duration-ms="2117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+        <test-method signature="getUserTest()[pri:2, instance:api.tests.UserTest@1edb61b1]" started-at="2023-06-06T16:47:38 PDT" name="getUserTest" finished-at="2023-06-06T16:47:39 PDT" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserTest -->
+        <test-method signature="updateUserTest()[pri:3, instance:api.tests.UserTest@1edb61b1]" started-at="2023-06-06T16:47:39 PDT" name="updateUserTest" finished-at="2023-06-06T16:47:39 PDT" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserTest -->
+        <test-method signature="patchUser()[pri:4, instance:api.tests.UserTest@1edb61b1]" started-at="2023-06-06T16:47:39 PDT" name="patchUser" finished-at="2023-06-06T16:47:39 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchUser -->
+        <test-method signature="deleteUserTest()[pri:5, instance:api.tests.UserTest@1edb61b1]" started-at="2023-06-06T16:47:39 PDT" name="deleteUserTest" finished-at="2023-06-06T16:47:40 PDT" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserTest -->
+      </class> <!-- api.tests.UserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
